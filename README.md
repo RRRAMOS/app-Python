@@ -1,4 +1,4 @@
-## Calculadora Básica com Python
+## Calculadora Python
 
 Instalar o Flask: `pip install Flask`
 Rodar Flask: 'flask run'
